@@ -1,0 +1,97 @@
+body {
+  /* sets the background for all used space (if a full screen isn't used then it will fill to fit a full screen) */
+  background-image: url(back.jpg);
+}
+
+h1 {
+  color: #355E3B	;
+  text-align: center;
+  font-size: 40px;
+  letter-spacing: 10px;
+}
+
+.img1{
+  margin: 150px auto;
+  padding:8px;
+}
+img {
+  float: left;
+  margin-left:150px;
+  border: solid #AFE1AF 6px;
+  padding: 7px;
+  border-radius: 15%;
+  max-width: 30%;
+margin-top: 10px;
+}
+.p1 {
+  float: right;
+  margin-right: 150px;
+  margin-top: 100px;
+  max-width: 40%;
+  font-size: large;
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 2;
+  font-weight: bold;
+  background: #AFE1AF;
+}
+
+.spring{
+  color: #4F7942;
+}
+
+h3{
+  text-align: center;
+  color: #5F9EA0;
+  font-size: 20px;
+}
+
+.p2{
+  float: right;
+  max-width: 40%;
+  font-size: large;
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 2;
+  font-weight: bold;
+  background: #AFE1AF;
+  margin-top: 200px;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+
+
+.img2 {
+  float: left;
+  border: solid #AFE1AF 6px;
+  padding: 7px;
+  border-radius: 15%;
+}
+
+.p3{
+  float: right;
+  margin-right: 130px;
+  margin-top: 200px;
+  margin-bottom: 0px;
+  max-width: 40%;
+  font-size: large;
+  letter-spacing: 2px;
+  text-align: center;
+  line-height: 2;
+  font-weight: bold;
+  background: #AFE1AF;
+  margin-left: 30px;
+}
+
+.img3{
+  float:left;
+  margin-left:150px;
+  border: solid #AFE1AF 6px;
+  padding: 7px;
+  border-radius: 15%;
+  max-width: 30%;
+}
+
+.post, .post1, .post2 {
+margin: 60px 60px 60px 60px;
+}
